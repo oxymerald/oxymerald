@@ -36,7 +36,7 @@
 </td>
 <td width="45%" align="center">
 
-<img src="assets/anime.png" width="320" alt="Anime aesthetic"/>
+<img src="anime.jpg" width="320" alt="Anime aesthetic"/>
 
 </td>
 </tr>
